@@ -6,6 +6,7 @@ import sys
 from datetime import datetime
 
 fw = open("log.txt","a")
+fr = open("log.txt","r")
 
 solenoid_1 = 3
 solenoid_2 = 5
@@ -34,7 +35,7 @@ Choose option: """)
     elif choice.lower() == "c":
         water_off()
     elif choice.lower() =="d":
-        print(1)
+        print(fr.read())
     elif choice.lower() =="q":
         GPIO.cleanup()
         fw.close()

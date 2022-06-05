@@ -1,0 +1,20 @@
+2022-06-04 14:55:37.058582 - soil moisture adequate.
+2022-06-04 14:56:30.619540 - soil moisture adequate.
+2022-06-04 14:57:51.086840 - soil moisture adequate.
+2022-06-04 15:00:20.127273 - soil moisture adequate.
+2022-06-04 15:00:46.127657 - soil moisture adequate.
+2022-06-04 15:01:00.128188 - soil moisture adequate.
+2022-06-04 15:01:14.126580 - soil moisture adequate.
+2022-06-04 15:01:28.149519 - soil moisture adequate.
+2022-06-04 15:01:42.166160 - soil moisture adequate.
+2022-06-04 15:01:57.167256 - soil moisture adequate.
+2022-06-04 15:02:13.188802 - soil moisture adequate.
+2022-06-04 15:02:28.186811 - soil moisture adequate.
+2022-06-04 15:02:44.188597 - soil moisture adequate.
+2022-06-04 17:23:40.622640 - soil moisture low on sensor 1, watering for 60 seconds.
+2022-06-04 17:27:12.635487 - soil moisture low on sensor 1, watering for 60 seconds.
+2022-06-04 17:27:12.635749 - soil moisture low on sensor 2, watering for 60 seconds.
+2022-06-04 17:28:23.723749 - soil moisture adequate on sensor 1.
+2022-06-04 17:28:23.723880 - soil moisture low on sensor 2, watering for 60 seconds.
+2022-06-04 17:29:45.721185 - soil moisture low (1990) on sensor 1, watering for 60 seconds.
+2022-06-04 17:29:45.721390 - soil moisture low (1960) on sensor 2, watering for 60 seconds.
